@@ -29,4 +29,4 @@ http://stackoverflow.com/questions/10175853/how-to-assign-functions-in-javascrip
 ==============
 Final Problems
 ==============
-I did not have enough time to deal with the problem of websockets.close() refreshing the page, and thus now having the complete disconnected/connected functionality of the websocket.org echo page.
+I did not have enough time to deal with the problem of websockets.close() refreshing the page, and having the complete disconnected/connected functionality of the websocket.org echo page.
