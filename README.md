@@ -30,3 +30,6 @@ http://stackoverflow.com/questions/10175853/how-to-assign-functions-in-javascrip
 Final Problems
 ==============
 I did not have enough time to deal with the problem of websockets.close() refreshing the page, and having the complete disconnected/connected functionality of the websocket.org echo page.
+
+I was trouble shooting with git for half an hour, for somereason my ssh key and login were not working. I eventually got this answer and realized what was the problem, I was using the https clone link instead of ssh. 
+http://stackoverflow.com/questions/6565357/git-push-requires-username-and-password
