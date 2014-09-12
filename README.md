@@ -25,3 +25,8 @@ One error I encountered is that the React.renderComponent function must be execu
 
 The other significant error I encountered was dealing with the Javascript Object heirarchy, particulary in the testwebSocket function. I had to learn of the trick of doing var self = this; because if I used this.onOpen(evt), it would mean using something equivalent to websocket.onOpen which was undefined.
 http://stackoverflow.com/questions/10175853/how-to-assign-functions-in-javascript
+
+==============
+Final Problems
+==============
+I did not have enough time to deal with the problem of websockets.close() refreshing the page, and thus now having the complete disconnected/connected functionality of the websocket.org echo page.
