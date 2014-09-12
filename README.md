@@ -14,8 +14,10 @@ http://facebook.github.io/react/index.html
 ===============
 Goal
 ===============
+
 Main goal is to combine this echo test with the TODO list, so that HTML5 WebSockets are used as well as React.js
 Such that there will be one box for sent and another for recieved messages.
+
 ===============
 Errors
 ===============
